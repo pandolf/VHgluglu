@@ -1,0 +1,2 @@
+./finalize_VHgluglu ZH_ZToLL_HToGluGlu_M_125_8TeV_powheg_herwigpp $1
+./finalize_VHgluglu DYJetsToLL_M-50_TuneZ2Star_8TeV-madgraph-tarball_Summer12_DR53X-PU_S10_START53_V7A-v1_2 $1
